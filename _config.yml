@@ -22,7 +22,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://robert-will-brown.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
 linkedin_username: 'robert-w-brown/'
 github_username: 'robert-will-brown'
-cv_url: 'https://rbcv.s3.eu-west-2.amazonaws.com/rb-cv.pdf'
+cv_url: 'https://rbcv.s3.eu-west-2.amazonaws.com/artifacts/rb-cv.pdf'
 
 # Build settings
 markdown: kramdown
@@ -100,5 +100,5 @@ enable_contact: false
 enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
-  - { url: 'https://rbcv.s3.eu-west-2.amazonaws.com/rb-cv.pdf', text: 'Résumé (CV)' }
+  - { url: 'https://rbcv.s3.eu-west-2.amazonaws.com/artifacts/rb-cv.pdf', text: 'Résumé (CV)' }
   # - { url: '/about', text: 'About' }
