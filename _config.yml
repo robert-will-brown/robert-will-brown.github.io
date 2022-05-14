@@ -15,12 +15,14 @@
 # in the templates via {{ site.myvariable }}.
 title: "Hello. I'm Rob Brown."
 email: 'robert.will.brown@gmail.com'
-description: "I'm a hands on CTO."
+description: >
+  Hands-On Technology Leader & CTO at <a href="https://www.ostmodern.co.uk">Ostmodern</a> & <a href="https://www.skylarkplatform.com">Skylark</a>.
+
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jamigibbs.github.io/phantom" # the base hostname & protocol for your site, e.g. https://example.com
-twitter_username: 'jamigibbs'
-github_username: 'jamigibbs'
-medium_username: 'blog.jamigibbs.com'
+url: "https://robert-will-brown.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
+linkedin_username: 'robert-w-brown/'
+github_username: 'robert-will-brown'
+cv_url: 'https://rbcv.s3.eu-west-2.amazonaws.com/rb-cv.pdf'
 
 # Build settings
 markdown: kramdown
@@ -98,5 +100,5 @@ enable_contact: false
 enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
-  - { url: '/', text: 'CV' }
-  - { url: '/about', text: 'About' }
+  - { url: 'https://rbcv.s3.eu-west-2.amazonaws.com/rb-cv.pdf', text: 'Résumé (CV)' }
+  # - { url: '/about', text: 'About' }
