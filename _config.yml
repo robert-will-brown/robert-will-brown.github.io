@@ -99,4 +99,4 @@ enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
   - { url: 'https://rbcv.s3.eu-west-2.amazonaws.com/artifacts/rb-cv.pdf', text: 'Résumé (CV)' }
-  - { url: '/about', text: 'About' }
+  # - { url: '/about', text: 'About' }
