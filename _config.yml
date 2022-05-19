@@ -15,9 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "Hello. I'm Rob Brown."
 email: 'robert.will.brown@gmail.com'
-description: >
-  Hands-On Technology Leader & CTO at <a href="https://www.ostmodern.co.uk">Ostmodern</a> & <a href="https://www.skylarkplatform.com">Skylark</a>.
-
+description: Hands-On Technology Leader & CTO at Ostmodern & Skylark.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://robert-will-brown.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
 linkedin_username: 'robert-w-brown/'
@@ -101,4 +99,4 @@ enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
   - { url: 'https://rbcv.s3.eu-west-2.amazonaws.com/artifacts/rb-cv.pdf', text: 'Résumé (CV)' }
-  # - { url: '/about', text: 'About' }
+  - { url: '/about', text: 'About' }

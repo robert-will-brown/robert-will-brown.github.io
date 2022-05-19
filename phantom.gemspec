@@ -3,7 +3,7 @@
 Gem::Specification.new do |spec|
   spec.name          = "phantom"
   spec.version       = "0.1.1"
-  spec.authors       = ["Rob Brown"]
+  spec.authors       = ["Jami Gibbs"]
   spec.email         = ["jami0821@gmail.com"]
 
   spec.summary       = "Phantom Jekyll Theme"
