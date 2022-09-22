@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "Hello. I'm Rob Brown."
 email: 'robert.will.brown@gmail.com'
-description: Hands-On Technology Leader & CTO of Ostmodern & Skylark.
+description: Hands-On Technology Leader & CTO.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://robert-will-brown.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
 linkedin_username: 'robert-w-brown/'
